@@ -70,13 +70,11 @@ The result is a polished desktop application where two players can play classic 
 
 ## Screenshots
 
-> _Add your gameplay screenshots in a `screenshots/` folder and reference them here._
-
 <div align="center">
 
 | Initial Board | Mid-Game | Game Over |
 |:-:|:-:|:-:|
-| ![Initial board layout](screenshots/initial.png) | ![Mid-game position](screenshots/midgame.png) | ![Winner screen](screenshots/winner.png) |
+| ![Initial board layout](Screenshots/initial.png) | ![Mid-game position](Screenshots/midgame.png) | ![Winner screen](Screenshots/winner.png) |
 | _All pieces in starting positions_ | _Selected piece highlighted in gold_ | _Cinematic winner overlay_ |
 
 </div>
@@ -264,11 +262,8 @@ This project was developed as a group effort for CS1004 at FAST-NU.
 
 <div align="left">
 
-
-| Tayyba Fatima | [@tayybafatima-08](https://github.com/tayybafatima-08) |
-
 | Merub Awan | [@M25rub](https://github.com/M25rub) |
-
+| Tayyba Fatima | [@tayybafatima-08](https://github.com/tayybafatima-08) |
 | Kiran Shahid | [@kir09an](https://github.com/kir09an) |
 
 </div>
